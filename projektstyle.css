@@ -1,0 +1,28 @@
+html{
+  background-color: #d2edbb;
+}
+.first{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 130px;
+}
+
+.container{
+  height: 300px;
+  margin-top: 200px;
+
+}
+img{
+  margin-bottom: 100px;
+}
+
+.search{
+	margin-right: 20px;
+  margin-top: -20px;
+
+}
+
+.knapp button{
+  margin-top: 30px;
+  margin-bottom: 50px;
+
+}
